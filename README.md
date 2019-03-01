@@ -4,6 +4,10 @@
 
 By James Cho\_
 
+## Components
+
+![Alt text](header.png?raw=true "structure")
+
 ## Description
 
 \_Name of Project: Text-to-Speech Reader
