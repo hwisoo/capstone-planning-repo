@@ -10,6 +10,8 @@ By James Cho\_
 
 ## Description
 
+See static version here: https://github.com/hwisoo/capstone-static-version.git
+
 \_Name of Project: Text-to-Speech Reader
 
 Project’s Purpose or Goal: (What will it do for users?) Fetch news articles of the day and read articles to the user.
