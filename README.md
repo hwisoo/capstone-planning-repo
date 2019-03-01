@@ -6,7 +6,7 @@ By James Cho\_
 
 ## Components
 
-![Alt text](header.png?raw=true "structure")
+![Alt text](HEADER.png?raw=true "structure")
 
 ## Description
 
